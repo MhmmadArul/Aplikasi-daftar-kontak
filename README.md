@@ -1,5 +1,9 @@
 # 📇 Aplikasi Daftar Kontak
 
+![React.Js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
 **Aplikasi Daftar Kontak** adalah proyek sederhana berbasis React.js yang dibuat sebagai bagian dari tugas *Informatics Study Club*. Aplikasi ini memungkinkan pengguna untuk menambahkan dan menghapus kontak secara dinamis melalui antarmuka web yang bersih dan modern menggunakan Tailwind CSS.
 
 ---
